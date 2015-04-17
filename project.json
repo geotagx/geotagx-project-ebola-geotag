@@ -1,0 +1,18 @@
+{
+	"name":"Geotag Ebola",
+	"short_name":"geotagebola",
+	"category":"Ebola response",
+	"description":"Geotag locations of Ebola photos",
+	"why":"TODO",
+	"icon_link":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ebola_Outbreak_Map.png/800px-Ebola_Outbreak_Map.png",
+	"questions":[
+		{
+			"id":1,
+			"title":"Can you geo-localize the photo?",
+			"type":"geotagging",
+			"answer":{
+				"saved_as":"latlancoords"
+			}
+		}
+	]
+}
