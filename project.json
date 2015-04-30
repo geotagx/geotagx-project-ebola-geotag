@@ -2,9 +2,8 @@
 	"name":"Geotag Ebola",
 	"short_name":"geotagebola",
 	"category":"Ebola response",
-	"description":"Geotag locations of Ebola photos",
-	"why":"TODO",
-	"icon_link":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ebola_Outbreak_Map.png/800px-Ebola_Outbreak_Map.png",
+	"description":"Geotag locations of Ebola photos.",
+	"why":"This project helps geotag photos of the Ebola outbreak so they can be displayed on a map.",
 	"questions":[
 		{
 			"id":1,
