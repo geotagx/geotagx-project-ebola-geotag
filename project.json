@@ -4,14 +4,11 @@
 	"category":"Ebola response",
 	"description":"Geotag locations of Ebola photos.",
 	"why":"This project helps geotag photos of the Ebola outbreak so they can be displayed on a map.",
-	"questions":[
+	"questionnaire":[
 		{
-			"id":1,
-			"title":"Can you geo-localize the photo?",
-			"type":"geotagging",
-			"answer":{
-				"saved_as":"latlancoords"
-			}
+			"question":"Can you geo-localize the photo?",
+			"key":"latlancoords",
+			"type":"geotagging"
 		}
 	]
 }
